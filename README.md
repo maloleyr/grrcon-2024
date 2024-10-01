@@ -17,11 +17,11 @@ I attended the following talks:
   - Demystifying NTLMv1 & MSCHAPv2
   - The Data Risks of Jumping on the RAG Wagon
   - Saving Lives Around the Table: Firefighters' Insights on Tabletops
-  - Who Stole the Cookies? Evolution of Access Vectors
-  - The New SaaS Cyber Kill Chain
-  - Automobiles, alcohol, blood, sweat, and creative reversing of an obfuscated Car-Modding tool
+  - Who Stole the Cookies? Evolution of Access Vectors [no notes]
+  - The New SaaS Cyber Kill Chain [no notes]
+  - Automobiles, alcohol, blood, sweat, and creative reversing of an obfuscated Car-Modding tool [no notes]
   - Where's the Money: Defeating ATM Disk Encryption
-  - The Curious Case of Alice and Bob
+  - The Curious Case of Alice and Bob [no notes]
 
 Some of my overall observations: 
   - A lot of the actual presentations did not really match the description unfortunately.
@@ -30,6 +30,7 @@ Some of my overall observations:
   - Bluemira and Eclypsium seem like cool products to check out.
   - The craft beer on Thursday was exceptionally tasty.
   - Seeing friends!!! I think that is the best part of going to any convention/conference. Meeting up with peers and just checking in. 
+  - The room audio and microphones were terrible this year. Presenters either had no clue how to use mics or the staff did not.
 
 Am I looking forward to next year? Duh. Tickets go on sale in the spring so get ready! 
 
